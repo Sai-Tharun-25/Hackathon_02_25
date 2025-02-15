@@ -1,2 +1,2 @@
-# Hackathon_02_25
+# PPE Detection - Workspace Safety
 VOXEL51 AI HACKATHON - ASU
